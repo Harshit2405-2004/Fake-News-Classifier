@@ -1,0 +1,15 @@
+# the notebooks run on google colab, most of these are already installed there
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+gensim
+wordcloud
+tensorflow
+torch
+transformers
+tqdm
+psutil
+kaggle
